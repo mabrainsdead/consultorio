@@ -53,6 +53,37 @@
 
     </div>
 
+    <div>
+        <h4>Fezes</h4>
+        <input type="checkbox" name="lab[]" value="Enterovírus por PCR">Enterovírus por PCR<br>
+        <input type="checkbox" name="lab[]" value="Elastase pancreática">Elastase pancreática<br>
+        <input type="checkbox" name="lab[]" value="Pesquisa de antígenos e trofozoítos de Entamoeba histolytica"> Pesquisa de antígenos e trofozoítos de Entamoeba histolytica <br>
+        <input type="checkbox" name="lab[]" value="Pesquisa de Eosinófilos">Pesquisa de Eosinófilos  <br>
+        <input type="checkbox" name="lab[]" value="Pesquisa de antígeno de Giardia lamblia">Pesquisa de antígeno de Giardia lamblia<br>
+        <input type="checkbox" name="lab[]" value="Alfa-1 Antitripsina">Alfa-1 Antitripsina <br>
+        <input type="checkbox" name="lab[]" value="Dosagem de Calprotectina">Dosagem de Calprotectina<br>
+        <input type="checkbox" name="lab[]" value="Pesquisa do DNA de Clostridium difficile toxigênico" >Pesquisa do DNA de Clostridium difficile toxigênico <br>
+        <input type="checkbox" name="lab[]" value="Cultura de Clostridium difficile com teste de toxigenicidade">Cultura de Clostridium difficile com teste de toxigenicidade <br>
+        <input type="checkbox" name="lab[]" value="Pesquisa de toxinas A e B de Clostridium difficile">Pesquisa de toxinas A e B de Clostridium difficile <br>
+        <input type="checkbox" name="lab[]" value="Pesquisa de Cryptosporidium spp e Coccídios">Pesquisa de Cryptosporidium spp e Coccídios <br>
+        <input type="checkbox" name="lab[]" value="Pesquisa de Coli Patogênico">Pesquisa de Coli Patogênico<br>
+        <input type="checkbox" name="lab[]" value="EnAntígeno de Cryptosporidium">Antígeno de Cryptosporidium<br>
+        <input type="checkbox" name="lab[]" value="Cultura de fezes">Cultura de fezes<br>
+        <input type="checkbox" name="lab[]" value="Dosagem de Gordura nas fezes">Dosagem de Gordura nas fezes <br>
+        <input type="checkbox" name="lab[]" value="Pesquisa de gordura nas fezes">Pesquisa de gordura nas fezes<br>
+        <input type="checkbox" name="lab[]" value="Antígeno de Helicobacter pylori">Antígeno de Helicobacter pylori<br>
+        <input type="checkbox" name="lab[]" value="Hemácias e Leucócitos">Hemácias e Leucócitos<br>
+        <input type="checkbox" name="lab[]" value="Microsporidia">Microsporidia<br>
+        <input type="checkbox" name="lab[]" value="Parasitológico">Parasitológico<br>
+        <input type="checkbox" name="lab[]" value="Parasitológico">Parasitológico orovírus<br>
+        <input type="checkbox" name="lab[]" value="Pesquisa de Rotavírus e Adenovírus">Pesquisa de Rotavírus e Adenovírus <br>
+        <input type="checkbox" name="lab[]" value="pH">pH <br>
+        <input type="checkbox" name="lab[]" value="Sangue oculto">Sangue oculto<br>
+        <input type="checkbox" name="lab[]" value="Substâncias redutoras">Substâncias redutoras<br>
+        <input type="checkbox" name="lab[]" value="Tamisação">Tamisação <br>
+        <input type="checkbox" name="lab[]" value="Tripsina">Tripsina <br>
+    </div>
+
     <input type="submit" value="submit">
 
 </form>
