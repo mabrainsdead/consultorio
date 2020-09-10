@@ -75,7 +75,6 @@
         <input type="checkbox" name="lab[]" value="Hemácias e Leucócitos">Hemácias e Leucócitos<br>
         <input type="checkbox" name="lab[]" value="Microsporidia">Microsporidia<br>
         <input type="checkbox" name="lab[]" value="Parasitológico">Parasitológico<br>
-        <input type="checkbox" name="lab[]" value="Parasitológico">Parasitológico orovírus<br>
         <input type="checkbox" name="lab[]" value="Pesquisa de Rotavírus e Adenovírus">Pesquisa de Rotavírus e Adenovírus <br>
         <input type="checkbox" name="lab[]" value="pH">pH <br>
         <input type="checkbox" name="lab[]" value="Sangue oculto">Sangue oculto<br>
