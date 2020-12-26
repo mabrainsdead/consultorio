@@ -26,8 +26,8 @@
         <input type="checkbox" name="lab[]" value="Amilase e Lipase">Amilase e lipase<br>
         <input type="checkbox" name="lab[]" value="Cortisol">Cortisol<br>
         <input type="checkbox" name="lab[]" value="FSH, LH, Prolactina, Testoterona total e livre, Estradiol">FSH, LH, Prolactina, testo, e2<br>
-        <input type="checkbox" name="lab[]" value="Ferro e ferritina">Ferro e ferritina<br>
-
+        <input type="checkbox" name="lab[]" value="Ferro, ferritina, saturacao de transferrina">Ferro, saturacao de transferrina,  ferritina<br>
+    <input type="checkbox" name="lab[]" value="anticorpos anti-LEDGF">Anti-LEDGF
     </div>
 
     <div>
